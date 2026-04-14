@@ -221,7 +221,9 @@ Based on the dataset, the dashboard reveals:
 
 ## 🔗 Connect With Me
 
-> *(Add your LinkedIn, GitHub, and email links here)*
+> https://www.linkedin.com/in/chaitanya-kumar-masagalla-45261a355/
+> chaitanyakumarmasagalla@gmail.com
+> https://github.com/ChaitanyaKumar1502
 
 ---
 
